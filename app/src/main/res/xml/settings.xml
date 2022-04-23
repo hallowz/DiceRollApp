@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="NumberOfSides"
+        android:defaultValue="4"/>
+    <Preference
+        android:key="HistoryA"
+        android:defaultValue="0"/>
+    <Preference
+        android:key="HistoryB"
+        android:defaultValue="0"/>
+    <Preference
+        android:key="HistoryC"
+        android:defaultValue="0"/>
+    <Preference
+        android:key="HistoryD"
+        android:defaultValue="0"/>
+    <Preference
+        android:key="HistoryE"
+        android:defaultValue="0"/>
+    <Preference
+        android:key="HistoryF"
+        android:defaultValue="0"/>
+    <Preference
+        android:key="HistoryG"
+        android:defaultValue="0"/>
+    <Preference
+        android:key="HistoryH"
+        android:defaultValue="0"/>
+
+</PreferenceScreen>
